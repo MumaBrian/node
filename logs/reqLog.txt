@@ -1,10 +1,1 @@
-20230309	11:30:59	bcb56e7a-49d6-407e-8971-15e107c70047	GET	undefined	/
-20230309	11:31:00	c2831068-37cb-4fa6-a62a-235500d9bc28	GET	undefined	/css/style.css
-20230309	12:11:09	e44633a1-94c3-4cc0-a148-34eb1efb66b1	GET	undefined	/css/style.css
-20230309	12:11:10	8a9012e2-0b5f-4d31-9f79-17aa63bdc1a7	GET	undefined	/
-20230309	12:11:10	45bb8f80-1549-4eb8-8da5-bdd246df1ad3	GET	undefined	/css/style.css
-20230309	12:11:10	415d285b-b908-4b00-8407-a2634d559111	GET	undefined	/favicon.ico
-20230309	12:11:11	1e05c54f-6d1a-4eb4-bce7-969c9e88c1cd	GET	undefined	/
-20230309	12:11:11	91a7ad16-8d5b-48bf-97d3-71b92dc87bcb	GET	undefined	/css/style.css
-20230309	12:34:16	83f9de26-9aba-4c0f-b3ae-cf3b7b987ee2	OPTIONS	https://www.google.com	/
-20230309	12:34:16	5d75be10-d0b9-4dda-ae78-f45e938bad38	GET	https://www.google.com	/
+20230310	10:45:00	26d7ff08-d8e6-4ac8-b64c-d6a709b66984	POST	undefined	/employees
